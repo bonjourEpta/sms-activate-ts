@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nishuzumi/sms-activate-sdk.git"
+    "url": "git+https://github.com/bonjourEpta/sms-activate-ts.git"
   },
   "keywords": [
     "sms",
@@ -43,10 +43,10 @@
     "sms-activate.org",
     "smsactivateorg"
   ],
-  "author": "SegFault",
+  "author": "bonjourEpta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nishuzumi/sms-activate-sdk/issues"
+    "url": "https://github.com/bonjourEpta/sms-activate-ts/issues"
   },
-  "homepage": "https://github.com/nishuzumi/sms-activate-sdk#readme"
+  "homepage": "https://github.com/bonjourEpta/sms-activate-ts#readme"
 }
